@@ -1,1 +1,2 @@
 hello coders. actually i am a noob , so if you feel my respository is boring kindly forgive me :)
+type "git pull" in vs to see me
